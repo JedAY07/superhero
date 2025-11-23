@@ -55,8 +55,7 @@ export default function LoginPage() {
         </button>
       </form>
       <p style={{ marginTop: "1rem", fontSize: "0.9rem" }}>
-        Pour tester, crée d'abord un utilisateur via l'API /api/auth/register (ex. avec Postman)
-        puis connecte-toi ici.
+
       </p>
     </div>
   );
